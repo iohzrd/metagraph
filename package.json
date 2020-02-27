@@ -1,0 +1,24 @@
+{
+  "name": "metagraph",
+  "version": "0.0.1",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iohzrd/metagraph.git"
+  },
+  "author": "iohzrd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iohzrd/metagraph/issues"
+  },
+  "homepage": "https://github.com/iohzrd/metagraph#readme"
+}
